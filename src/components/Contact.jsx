@@ -108,7 +108,7 @@ const Contact = () => (
             Send Request
           </button>
         </form>
-      </div>
+      </motion.div>
     </div>
   </section>
 );
